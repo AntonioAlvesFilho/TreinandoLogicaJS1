@@ -1,1 +1,1 @@
-# TreinandoLogicaJS1
+Objetivo: fins didáticos para o aprimoramento da lógica na linguagem de programação JavaScript
